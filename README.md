@@ -25,4 +25,9 @@ I’m a Computer Science graduate from SJBIT, passionate about building efficien
 - **Deployment**: (Optional) GitHub Pages or Netlify
 
 ## 🔨 Project Structure
+portfolio/
+├── index.html # Main HTML structure
+├── style.css # Custom styling
+├── script.js # Scroll behavior and interactions
+└── README.md # This file
 
